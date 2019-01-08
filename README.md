@@ -1,2 +1,2 @@
-# 100days-100algorithms
-This is the repository in which I store all my algorithms and the new things I found on each day.
+# 100days-100algorithms.
+Trying to find some new methodoligies and algorithms by using some programming languages for next 100 days(one day-one algorithm). 
