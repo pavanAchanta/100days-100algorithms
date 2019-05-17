@@ -38,3 +38,11 @@ c=0;
 }
 cout<<x;
 }
+
+sample i/p:
+5
+TTTWW
+TWWTT
+TWWTT
+TWTTT
+WWTTT
