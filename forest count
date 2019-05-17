@@ -32,3 +32,12 @@ count(i,j-1);
 count(i,j+1);
 }
 
+sample i/p:
+5
+TTTWW
+TWWTT
+TWWTT
+TWTTT
+WWTTT
+sample op:
+2
