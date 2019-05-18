@@ -1,0 +1,4 @@
+n=int(input())
+l=bin(n)
+l1=list(l)
+print(l1.count('1'))
