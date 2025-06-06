@@ -61,6 +61,7 @@ int main()
     {
         scanf("%d",&a[i]);
         root=insert(root,a[i]);
+        int siva=0;
     }
     preorder(root);
     printf("\n");
